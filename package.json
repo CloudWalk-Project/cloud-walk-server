@@ -38,7 +38,7 @@
     "@prisma/client": "^4.3.1",
     "@prisma/engines": "^4.3.1",
     "@ssut/nestjs-sqs": "^1.2.0",
-    "aws-sdk": "^2.1233.0",
+    "aws-sdk": "^2.1370.0",
     "axios": "^1.1.0",
     "bcrypt": "^5.0.1",
     "class-transformer": "^0.5.1",
